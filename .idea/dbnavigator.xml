@@ -24,7 +24,7 @@
     <connection id="45c5b38d-53f1-4b1e-90ee-e706e5038e75" />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/data.sql" connection-id="virtual-mysql-connection" session-id="" current-schema="" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/data.sql" connection-id="virtual-mysql-connection" session-id="MAIN" current-schema="" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
