@@ -1,7 +1,7 @@
 # Employees-service-api - Rest API Backend
 
 Aplicacion APIRestful para consulta de empleados y consulta de id de empleado.
-Realizado con Java 17, SpringBoot 3.2.2, Bases de Datos: H2 y MySQL, Maven, JUnit5.
+Realizado con Java 17, SpringBoot 3.2.2, Bases de Datos: H2 y MySQL, Maven, empaquetado war, JUnit5.
 
 # Instalacion
 
